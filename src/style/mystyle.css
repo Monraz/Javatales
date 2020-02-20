@@ -1,0 +1,46 @@
+.greenButton {
+    -fx-font-family: 'AppleMyungjo', Arial, sans-serif;
+    -fx-background-color: black;
+    -fx-text-fill: whitesmoke;
+    -fx-font-size: 20px;
+}
+.blueButton {
+    -fx-font-family: 'AppleMyungjo', Arial, sans-serif;
+    -fx-background-color: lightskyblue;
+    -fx-text-fill: navy;
+    -fx-font-size: 20px;
+}
+.blueButton:hover {
+    -fx-background-color: navy;
+    -fx-text-fill: whitesmoke;
+}
+.title {
+
+    -fx-font-family: 'AppleMyungjo', Arial, sans-serif;
+    -fx-text-fill: navy;
+    -fx-font-size: 80px;
+}
+.stats {
+
+    -fx-font-family: 'AppleMyungjo', Arial, sans-serif;
+    -fx-text-fill: whitesmoke;
+    -fx-font-size: 50px;
+}
+.mapBackground {
+    -fx-background-color: #313131;
+
+    -fx-fill: aqua;
+}
+.selectCharBackground{
+    -fx-background-image: url("/images/select_char_background.png");
+    -fx-background-size: cover;
+}
+.introPage{
+    -fx-background-image: url("../Images/background_Title.jpg");
+    -fx-background-size: cover;
+}
+
+
+
+
+
